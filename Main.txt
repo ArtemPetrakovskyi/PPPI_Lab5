@@ -1,2 +1,2 @@
-Main file, where everything is going to be done #Milash
+Merge conflict #Milash Hrushko
 Hello World!!! #Ishchuk
