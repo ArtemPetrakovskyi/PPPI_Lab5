@@ -1,3 +1,8 @@
 Main file, where everything is going to be done #Milash
 Hello World!!! #Ishchuk
+
 Test
+
+Conflict!
+Merge conflict #Milash Hrushko
+Hello World!!! #Ishchuk
