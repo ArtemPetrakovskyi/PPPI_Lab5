@@ -6,4 +6,5 @@ Test
 Conflict!
 Merge conflict #Milash Hrushko
 Hello World!!! #Ishchuk
+
 Conflict2!
